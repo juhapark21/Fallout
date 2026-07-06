@@ -33,4 +33,11 @@ We originally meant for this device to be a human-ridable vehicle but due to tor
 ## Zine 
 <img width="1260" height="1785" alt="zine" src="https://github.com/user-attachments/assets/59f77a40-d95d-447e-893e-919e8e2f532d" />
 
+## Pictures 
+<img width="3024" height="4032" alt="IMG_7670" src="https://github.com/user-attachments/assets/e96cd1e7-d2f8-4d2b-a8a1-3822996e7bdf" />
+<img width="3024" height="4032" alt="IMG_7669" src="https://github.com/user-attachments/assets/419c8a7d-dad4-4421-9c60-2277301ec9ae" />
+<img width="3024" height="4032" alt="IMG_7668" src="https://github.com/user-attachments/assets/a026d467-4ebd-4b5f-b038-d70af166add9" />
+<img width="3024" height="4032" alt="IMG_7667" src="https://github.com/user-attachments/assets/efe8aca4-f859-4a5a-96a6-d0f174548c9a" />
+<img width="3024" height="4032" alt="IMG_7666" src="https://github.com/user-attachments/assets/fd723003-68d6-4b2d-a762-2a6108a2bde8" />
+
 
